@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/testinglab":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/testinglab","hostpath":"/Users/oomusou/Projects/TestingLab","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oomusou/Projects/TestingLab","disabled":false}}}
